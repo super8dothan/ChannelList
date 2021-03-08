@@ -1,0 +1,85 @@
+﻿	
+	
+Channel #	Channel Name
+7.1	WTVY HD (CBS)
+7.2	WDHN HD (ABC)
+8.1	WRGX HD (NBC)
+8.2	WDFX Bounce
+8.3	Grit
+8.4	WTVY CW HD
+9.1	PBS HD
+9.2	WDFX HD (Fox)
+9.3	PBS Create
+9.4	PBS IQ
+10.1	COMMUNITY BULLETIN
+10.2	WTVY ME/MY TV
+10.3	Troy University
+	NICKELODEON EAST
+11.2	SPIKE TV EAST
+11.3	Fox Sports
+11.4	TV LAND
+11.5	Inspirational Network
+11.6	Cartoon Network
+11.7	CMT
+11.8	ESPN Classic
+12.1	CSPAN-1
+12.2	CSPAN-2
+12.3	The Weather Channel
+12.4	HSN
+12.5	QVC
+12.6	BET
+12.7	GOLF CHANNEL
+12.8	AMC
+13.1	Pursuit Channel
+13.2	HALLMARK NETWORK
+13.3	WGN
+13.4	GSN
+13.5	Great American Country
+13.6	E! ENTERTAINMENT EAST
+14.1	CNN Headline News
+14.2	CNN
+14.3	CNBC
+14.4	MSNBC
+14.5	Bravo
+14.6	TBS
+14.7	FS1
+15.1	Fox Sports South
+15.2	VH1
+15.3	MTV EAST
+15.4	COMEDY CENTRAL
+15.5	TC2
+15.6	TNT
+15.7	Turner Classic Movies
+16.1	OWN
+16.2	Investigation Discovery
+17.1	FS2
+17.2	FXX
+17.3	TBN
+17.4	NBC Sports
+18.1	TRU TV
+18.2	HBO Family East
+18.3	HBO Signature East
+19.1	HBO Zone East
+19.2	HBO Comedy Easr
+20.1	HBO2 East
+20.2	HBO East
+21.1	ESPN HD
+21.2	ESPN2 HD
+22.1	SEC HD
+22.6	SEC ALT HD
+23.1	USA HD
+23.2	National Geographic HD
+23.3	Discovery HD
+24.1	A&E HD
+24.2	HGTV HD
+25.1	History HD
+25.2	Animal Planet HD
+26.1	Syfy HD
+26.2	Food Network HD
+27.1	Freeform HD
+27.2	Disney HD
+28.1	Fox News HD
+28.2	FX HD
+29.1	TLC HD
+29.2	Lifetime HD
+30.1	Travel HD
